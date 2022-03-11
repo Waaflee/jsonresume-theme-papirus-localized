@@ -1,18 +1,18 @@
 {
-  "name": "jsonresume-theme-papirus",
-  "version": "0.0.5",
-  "description": "Papirus theme for JSON Resume",
-  "author": "Konstantinos Alexiou",
+  "name": "jsonresume-theme-papirus-localized",
+  "version": "0.0.1",
+  "description": "Papirus theme for JSON Resume with localization features",
+  "author": "Agustín Marinsalda Pastor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konalexiou/jsonresume-theme-papirus"
+    "url": "https://github.com/Waaflee/jsonresume-theme-papirus-localized"
   },
   "keywords": [
     "jsonresume",
     "jsonresume-theme",
-    "jsonresume-theme-papirus",
+    "jsonresume-theme-papirus-localized",
     "papirus",
-    "konalexiou"
+    "Waaflee"
   ],
   "license": "MIT",
   "dependencies": {
